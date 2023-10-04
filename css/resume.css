@@ -171,4 +171,5 @@ a:active {
 #particles-js {
   position: fixed;
   top: 0;
+  width: 100%;
 }
